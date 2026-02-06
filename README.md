@@ -1,5 +1,6 @@
 # 💫 About Me:
-I,m an Engineer student.<br>
+I'm an Engineer student.<br>
+I'm a web developer 
 
 
 ## 🌐 Socials:
