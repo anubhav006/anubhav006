@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm an Engineer student.<br>
-I'm a web developer 
+📖 Pursuing B.Tech in CSE at Invertis University.<br>
+💻 Frontend Developer.<br>
 
 
 ## 🌐 Socials:
