@@ -1,6 +1,6 @@
 # 💫 About Me:
 📖 Pursuing B.Tech in CSE at Invertis University.<br>
-💻 Frontend Developer.<br>
+💻 Full Stack Developer.<br>
 
 
 ## 🌐 Socials:
